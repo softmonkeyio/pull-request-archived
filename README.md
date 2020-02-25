@@ -1,2 +1,4 @@
 # pull-request-archived
-Wersaj archived
+Wersja archived
+
+Poprawiono, udoskonalono.
